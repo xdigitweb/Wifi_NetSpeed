@@ -1,31 +1,26 @@
-# Wifi_NetSpeed
-# Real-time Wi-Fi speed widget for the Windows taskbar
+See your Wi-Fi download and upload speed at a glance — always on top, always accurate.
 
-•	Drag the widget anywhere, then choose “Lock position” to keep it there.
+Wifi NetSpeed is a tiny 118 KB portable app for Windows 11 that sits on your desktop and shows your live network speed in real time. No installer, no admin rights, no runtime downloads — just run the EXE and you're done.
 
-•	“Widget size > Free size” lets you resize from the right side, the bottom side or the bottom-right corner.
-
-•	“Widget size > Compact” switches to a small fixed widget.
-
-•	Double-click the widget to switch Mbps / MB/s.
-
-•	Right-click the tray icon for all options.
-
-•	Settings location: %APPDATA%\WifiNetSpeed\settings.ini
+✅ Real-time download & upload speed (Mbps ↔ MB/s with a double-click)
+✅ Shows the connected Wi-Fi network name (SSID)
+✅ Always on top — stays above apps, games and the taskbar
+✅ Lock position — place it once and it never moves
+✅ 5 themes (Default, System, Light, Dark, Transparent) + adjustable font size and colour
+✅ Free resize from 120×44 to 460×260
+✅ Right-click menu closes on outside click or Esc
+✅ No telemetry, no location access, no tracking — fully offline
 
 
-> উইন্ডোজ টাস্কবারের (Taskbar) জন্য একটি রিয়েল-টাইম ওয়াই-ফাই স্পিড উইজেট।
+Windows 11-এর জন্য ছোট্ট একটা ফ্রি টুল — Wifi NetSpeed।
+কোনো ইনস্টল নেই, অ্যাডমিন পারমিশন নেই — শুধু একটা ১১৮ KB-র EXE চালান, ব্যস!
 
-> ইচ্ছামতো পজিশন সেট করুন: উইজেটটি টেনে (Drag) যেকোনো স্থানে বসাতে পারবেন। এরপর পজিশনটি নির্দিষ্ট করে রাখতে “Lock position” অপশনটি বেছে নিন।
-
-> সাইজ পরিবর্তন করুন: “Widget size > Free size” অপশনটি ব্যবহার করে উইজেটের ডান পাশ, নিচের পাশ বা ডান-নিচের কোণা ধরে সুবিধামতো সাইজ ছোট-বড় করতে পারবেন।
-
-> কমপ্যাক্ট মোড: “Widget size > Compact” অপশনটি সিলেক্ট করলে উইজেটটি একটি নির্দিষ্ট ছোট আকারে (Small fixed widget) পরিণত হবে।
-
-> ইউনিট পরিবর্তন: Mbps এবং MB/s-এর মধ্যে পরিবর্তন করতে উইজেটটির ওপর ডাবল-ক্লিক (Double-click) করুন।
-
-> সকল সেটিংস: অন্যান্য সব সেটিংসের জন্য ট্রে আইকনে (Tray icon) রাইট-ক্লিক (Right-click) করুন।
-
-> সেটিংস ফাইল অবস্থান (Settings location): %APPDATA%\WifiNetSpeed\settings.ini
+✅ রিয়েল-টাইম ডাউনলোড ও আপলোড স্পিড (Mbps ↔ MB/s)
+✅ কানেক্টেড Wi-Fi নেটওয়ার্কের নাম (SSID)
+✅ Always on top — অন্য অ্যাপ বা টাস্কবারের উপরেও থাকে
+✅ লক পজিশন — একবার বসিয়ে রাখুন, আর নড়বে না
+✅ ৫টি থিম, ফন্ট সাইজ ও রঙ বদলানোর সুবিধা
+✅ ১২০×৪৪ থেকে ৪৬০×২৬০ — নিজের পছন্দমতো সাইজ
+✅ কোনো টেলিমেট্রি নেই, কোনো লোকেশন অ্যাক্সেস নেই
 
 Youtube: https://www.youtube.com/shorts/FUATsqwgack
