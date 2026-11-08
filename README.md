@@ -27,3 +27,5 @@
 > সকল সেটিংস: অন্যান্য সব সেটিংসের জন্য ট্রে আইকনে (Tray icon) রাইট-ক্লিক (Right-click) করুন।
 
 > সেটিংস ফাইল অবস্থান (Settings location): %APPDATA%\WifiNetSpeed\settings.ini
+
+Youtube: https://www.youtube.com/shorts/FUATsqwgack
