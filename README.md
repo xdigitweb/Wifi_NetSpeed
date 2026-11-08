@@ -21,6 +21,8 @@ Wifi NetSpeed is a tiny 118 KB portable app for Windows 11 that sits on your des
 
 
 
+
+
 Windows 11-এর জন্য ছোট্ট একটা ফ্রি টুল — Wifi NetSpeed।
 কোনো ইনস্টল নেই, অ্যাডমিন পারমিশন নেই — শুধু একটা ১১৮ KB-র EXE চালান, ব্যস!
 
